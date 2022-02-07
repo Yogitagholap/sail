@@ -1,0 +1,12 @@
+hello
+
+Sending Email is a basic requirement regardless of which platform you are working on like JAVA, JavaEE, Python etc. Sending Email may be required to send error alerts or confirmation of registration or signup. Java provides the facility to send emails by writing java programs.
+To send emails using Java, you need three things: 
+ 
+
+  1. JavaMail API
+  2. Java Activation Framework (JAF)
+  3. Your SMTP server details
+  
+  
+  
