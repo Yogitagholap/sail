@@ -14,6 +14,7 @@ class SendAttachment {
 	public static void main(String[] args) {
 		final String samplepath = fullPathName + "menumaster";
 		FileInputStream fstream = null;
+		
 		try {
 			try {
 				
